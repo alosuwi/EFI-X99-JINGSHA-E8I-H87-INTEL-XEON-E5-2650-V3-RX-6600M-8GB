@@ -8,6 +8,7 @@
 |Motherboard|JINGSHA X99-E8I|
 |CPU|Intel Xeon E5-2650 v3, 2.30GHz (10C/20T)|
 |Memory|32 GB DDR4 - 4x8GB|
+|Storage|SSD Goldenfir 1TB - SATA 3|
 |GPU|AMD Radeon RX6600M 8GB 51RISC|
 |Ethernet|Realtek GBe Family (RTL8111)|
 |Audio|Realtek ALC892|
