@@ -55,7 +55,7 @@ ATENÇÃO ANTES DE USAR ESSA EFI
 
 2 - Por alguma razão desconhecida, a EFI não prossegue com a instalação.
 
-3 - Após a instalação, a utilização da EFI ocorre perfeitamente, sem nenhum erro.
+3 - Após a instalação, a utilização da EFI ocorre perfeitamente, sem nenhum erro, até o presente momento.
 
 # References/Referências
 
