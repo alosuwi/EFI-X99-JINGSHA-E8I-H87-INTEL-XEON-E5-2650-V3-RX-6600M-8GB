@@ -57,6 +57,8 @@ ATENÇÃO ANTES DE USAR ESSA EFI
 
 3 - Após a instalação, a utilização da EFI ocorre perfeitamente, sem nenhum erro, até o presente momento.
 
+## Alterações Futuras/Future Changes
+
 # References/Referências
 
 https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E
