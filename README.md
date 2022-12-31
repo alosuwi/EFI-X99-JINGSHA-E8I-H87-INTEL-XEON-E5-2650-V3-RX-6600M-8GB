@@ -59,10 +59,10 @@ ATENÇÃO ANTES DE USAR ESSA EFI
 
 ## Alterações Futuras/Future Changes
 
-- [  ] Fazer dar boot pela mesma EFI de pós-instalação.
-- [  ]
-- [  ]
-- [  ]
+- [x] Fazer dar boot pela mesma EFI de pós-instalação.
+- []
+- []
+- []
 # References/Referências
 
 https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E
