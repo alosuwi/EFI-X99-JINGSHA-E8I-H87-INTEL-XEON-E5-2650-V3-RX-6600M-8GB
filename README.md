@@ -60,8 +60,8 @@ ATENÇÃO ANTES DE USAR ESSA EFI
 ## Alterações Futuras/Future Changes
 
 - [] Fazer dar boot pela mesma EFI de pós-instalação.
-- []
-- []
+- [] Ter uma boa estabilidade.
+- [] 
 - []
 # References/Referências
 
