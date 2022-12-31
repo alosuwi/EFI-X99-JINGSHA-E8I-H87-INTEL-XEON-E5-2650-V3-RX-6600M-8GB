@@ -59,7 +59,7 @@ ATENÇÃO ANTES DE USAR ESSA EFI
 
 ## Alterações Futuras/Future Changes
 
-- [x] Fazer dar boot pela mesma EFI de pós-instalação.
+- [] Fazer dar boot pela mesma EFI de pós-instalação.
 - []
 - []
 - []
