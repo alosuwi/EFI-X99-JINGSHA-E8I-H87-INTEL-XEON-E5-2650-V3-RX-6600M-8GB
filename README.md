@@ -49,22 +49,16 @@
 - OS type: Windows 8.1/10/11 UEFI Mode
 - SATA Mode: AHCI
 
-## Informções Essenciais
+## Essential Information/Informações Essenciais
 
 ATENÇÃO ANTES DE USAR ESSA EFI
 
-1 - Recomendo usar uma EFI diferente para fazer a instalação do OS.
+1 - Recomendo usar o GenSMBIOS para gerar a SMBIOS que gostaria de usar. Ela já vai como `MacPro7,1`.
 
-2 - Por alguma razão desconhecida, a EFI não prossegue com a instalação.
+2 - Não vai com a kext **`USBMap.ketx`**. Já vai com o `ACPI` do `SSDT-USB-Reset.aml`. Faça o seu próprio mapeamento das portas `USB`.
 
-3 - Após a instalação, a utilização da EFI ocorre perfeitamente, sem nenhum erro, até o presente momento.
+3 - Após isso é so desfrutar do seu **`Hackintosh`**.
 
-## Alterações Futuras/Future Changes
-
-- [] Fazer dar boot pela mesma EFI de pós-instalação.
-- [] Ter uma boa estabilidade.
-- [] 
-- []
 # References/Referências
 
 https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E
