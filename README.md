@@ -1,6 +1,8 @@
 # EFI-X99-JINGSHA-E8I-H87-INTEL-XEON-E5-2650-V3-RX-6600M-8GB
 
-![MacPro7,1](https://user-images.githubusercontent.com/88504218/208508130-8ce3643c-963d-4869-af7f-6371935fb658.png)
+![Untitled-1](https://github.com/carlospelegrin/EFI-X99-JINGSHA-E8I-H87-INTEL-XEON-E5-2650-V3-RX-6600M-8GB/assets/88504218/3f032df1-f6cc-4785-9226-80ab01d8abd7)
+
+![Screenshot 2023-06-24 at 01 24 19](https://github.com/carlospelegrin/EFI-X99-JINGSHA-E8I-H87-INTEL-XEON-E5-2650-V3-RX-6600M-8GB/assets/88504218/8fe09c69-a72e-4241-9783-4f084dfaa9ba)
 
 |Item|Description|
 |-|:-------:|
