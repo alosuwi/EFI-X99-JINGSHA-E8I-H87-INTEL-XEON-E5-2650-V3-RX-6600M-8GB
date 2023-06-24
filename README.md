@@ -15,8 +15,8 @@
 |Ethernet|Realtek GBe Family (RTL8111)|
 |Audio|Realtek ALC892|
 |SMBIOS|MacPro7,1|
-|OS|Ventura 13.1|
-|Opencore|0.8.7|
+|OS|Sonoma 14.0 beta 2 (Atualmente)|
+|Opencore|0.9.3 (Atualmente)|
 
 
 # BIOS Settings/Configurações de BIOS
