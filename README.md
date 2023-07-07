@@ -18,6 +18,11 @@
 |OS|Sonoma 14.0 beta 3 (Atualmente)|
 |Opencore|0.9.3 (Atualmente)|
 
+Comando para atualizar via terminal seu **`Hackintosh`**.
+
+```
+sudo softwareupdate -i -a -R
+```
 
 # BIOS Settings/Configurações de BIOS
 
