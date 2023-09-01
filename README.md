@@ -15,7 +15,7 @@
 |Ethernet|Realtek GBe Family (RTL8111)|
 |Audio|Realtek ALC892|
 |SMBIOS|MacPro7,1|
-|OS|Sonoma 14.0 beta 6 (Atualmente)|
+|OS|Sonoma 14.0 beta 7 (Atualmente)|
 |Opencore|0.9.4 (Atualmente)|
 
 Comando para atualizar via terminal seu **`Hackintosh`**.
