@@ -15,8 +15,8 @@
 |Ethernet|Realtek GBe Family (RTL8111)|
 |Audio|Realtek ALC892|
 |SMBIOS|MacPro7,1|
-|OS|Sonoma 14.0 release candidate 1 (Atualmente)|
-|Opencore|0.9.5 update kext RestrictEvents (Atualmente)|
+|OS|Sonoma 14.1 (Atualmente)|
+|Opencore|0.9.5.1 update kext RestrictEvents (Atualmente)|
 
 Comando para atualizar via terminal seu **`Hackintosh`**.
 
